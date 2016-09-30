@@ -5,5 +5,7 @@
 * Create brief description in readme's file
 * Create file to describe the model 0 in spanish
 * Create file to describe the model 0 in english
+
+
 ##Goal 2
 * TODO
