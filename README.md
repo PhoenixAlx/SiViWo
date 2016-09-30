@@ -1,2 +1,2 @@
 # SiViWo
-Simulation of virgin words.  The idea is to simulate how the new words appear in the language.
+Simulation of virgin words.  The idea is to simulate how the new words appear in the language.  In this project the programation's language used will be python (version 3)
