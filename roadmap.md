@@ -2,6 +2,9 @@
 ##Goal 1
 * Create project in github
 * Create file of roadmap
+* Create Milestones
+* Create issues
+* To group issues in milestones
 * Create brief description in readme's file
 * Create file to describe the model 0 in spanish
 * Create file to describe the model 0 in english
