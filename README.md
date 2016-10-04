@@ -3,5 +3,5 @@ Simulation of virgin words.  The idea is to simulate how the new words appear in
 
 
 ##04/10/2016
-______________
+
 @Angrykoala show me that the milestones and issues can be used of roadmap.
