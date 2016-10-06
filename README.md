@@ -20,7 +20,7 @@ Also I have included a brief description of the model 0 in:
 * [Spanish] (https://github.com/PhoenixAlx/SiViWo/blob/master/model_0/description_es.md)
 
 
-I have encouraged and have started the Goals 2
+I have encouraged and have started and finished the Goals 2
 
 ###Goal 2
 
