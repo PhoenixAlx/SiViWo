@@ -11,4 +11,8 @@
 
 
 ##Goal 2
-* TODO
+
+* Create folder model_0
+* Create folder lib
+* Create folder output
+* Create principal script model0.py
