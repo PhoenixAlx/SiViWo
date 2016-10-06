@@ -19,6 +19,18 @@ Also I have included a brief description of the model 0 in:
 * [English] (https://github.com/PhoenixAlx/SiViWo/blob/master/model_0/description_en.md)
 * [Spanish] (https://github.com/PhoenixAlx/SiViWo/blob/master/model_0/description_es.md)
 
+
+I have encouraged and have started the Goals 2
+
+###Goal 2
+
+* Create folder model_0
+* Create folder lib
+* Create folder output
+* Create principal script model0.py
+
+
+
 ##04/10/2016
 
 @Angrykoala show me that the milestones and issues can be used of roadmap.
