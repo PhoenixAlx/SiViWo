@@ -15,6 +15,9 @@ Following with the idea the milestones I have opened a milestone to join the dif
 * Create file to describe the model 0 in spanish
 * Create file to describe the model 0 in english
 
+Also I have included a brief description of the model 0 in:
+* [English] (https://github.com/PhoenixAlx/SiViWo/blob/master/model_0/description_en.md)
+* [Spanish] (https://github.com/PhoenixAlx/SiViWo/blob/master/model_0/description_es.md)
 
 ##04/10/2016
 
