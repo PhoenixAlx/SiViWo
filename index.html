@@ -108,6 +108,7 @@
       /// read from file
       //var txtFile = "https://github.com/PhoenixAlx/SiViWo/blob/master/README.md"
       var txtFile = "README.md";
+      var textMd="";
       var rawFile = new XMLHttpRequest();
       rawFile.open("GET", txtFile, false);
       rawFile.onreadystatechange = function (){
@@ -116,7 +117,8 @@
             if(rawFile.status === 200 || rawFile.status == 0)
             {
                 var allText = rawFile.responseText;
-                alert(allText);
+                textMd=allText;
+                //alert(allText);
             }
         }
       }
@@ -124,7 +126,7 @@
 
 
       var converter = new Showdown.converter();
-      var html = converter.makeHtml(resp);
+      var html = converter.makeHtml(textMd);
       document.getElementById("divReadme").innerHTML = html;
       alert(html);
 
