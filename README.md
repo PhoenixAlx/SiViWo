@@ -1,7 +1,9 @@
 # SiViWo
 Simulation of virgin words.  The idea is to simulate how the new words appear in the language.  In this project the programation's language used will be python (version 3)
 ---------------------------------------------------------------------------------------------------
-##07/10/2016
+
+
+07/10/2016
 ---------------------------------------------------------------------------------------------------
 I have added the issues of goal 3 and other to learn new things.
 
@@ -16,7 +18,8 @@ I have added the issues of goal 3 and other to learn new things.
 * The idea is to update the web of project when the readme.md is update. I think so that i got it
 * Seach modules in python that do it or to develope my own module. I have found this library in python [NetworkX](https://networkx.github.io/documentation/networkx-1.9/tutorial/tutorial.html)
 
-##06/10/2016
+
+06/10/2016
 ---------------------------------------------------------------------------------------------------
 Following with the idea the milestones I have opened a milestone to join the different points that correspond to the goal 1
 
@@ -46,7 +49,7 @@ I have encouraged and have started and finished the Goals 2
 
 
 
-##04/10/2016
+04/10/2016
 ---------------------------------------------------------------------------------------------------
 @Angrykoala show me that the milestones and issues can be used of roadmap.
 
