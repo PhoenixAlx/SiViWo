@@ -105,7 +105,7 @@
     function updateReadme(){
       
       /// read from file
-
+  
       var txtFile = "https://github.com/PhoenixAlx/SiViWo/blob/master/README.md"
       var file = new File(txtFile);
 
@@ -119,6 +119,7 @@
       var converter = new Showdown.converter();
       var html = converter.makeHtml(str);
       document.getElementById("divReadme").innerHTML = html;
+      alert(html);
 
     }
     window.open=updateReadme();
