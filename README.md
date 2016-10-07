@@ -13,7 +13,7 @@ I have added the issues of goal 3 and other to learn new things.
 
 ###Learning:
 
-* The idea is to update the web of project when the readme.md is update
+* The idea is to update the web of project when the readme.md is update. I think so that i got it
 * Seach modules in python that do it or to develope my own module
 
 ##06/10/2016
