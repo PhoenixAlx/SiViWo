@@ -106,15 +106,19 @@
       
       /// read from file
       var txtFile = "https://github.com/PhoenixAlx/SiViWo/blob/master/README.md"
-      var file = new File(txtFile);
+      var xhr = new XMLHttpRequest();
+      xhr.onreadystatechange = process;
+      xhr.open("GET", txtFile, true);
+      xhr.send();
 
-      file.open("r"); // open file with read access
-      var str = "";
-      while (!file.eof) {
-        // read each line of text
-        str += file.readln() + "\n";
+
+      if (xhr.readyState == 4) {
+          var resp = JSON.parse(xhr.responseText);
+
+          // resp now has the text and you can process it.
+           alert(resp);
       }
-      file.close();
+
       var converter = new Showdown.converter();
       var html = converter.makeHtml(str);
       document.getElementById("divReadme").innerHTML = html;
