@@ -4,7 +4,7 @@ Simulation of virgin words.  The idea is to simulate how the new words appear in
 
 
 ##07/10/2016
-____________________________________________________________________________________
+***
 I have added the issues of goal 3 and other to learn new things.
 
 ###Goal 3
@@ -20,7 +20,7 @@ I have added the issues of goal 3 and other to learn new things.
 
 
 ##06/10/2016
-____________________________________________________________________________________
+***
 Following with the idea the milestones I have opened a milestone to join the different points that correspond to the goal 1
 
 ###Goal 1
@@ -50,6 +50,6 @@ I have encouraged and have started and finished the Goals 2
 
 
 ##04/10/2016
-____________________________________________________________________________________
+***
 @Angrykoala show me that the milestones and issues can be used of roadmap.
 
