@@ -16,3 +16,10 @@
 * Create folder lib
 * Create folder output
 * Create principal script model0.py
+
+##Goal 3
+
+* Add in model0 agents and networks
+* Create class for networks
+* Create class for agents
+
