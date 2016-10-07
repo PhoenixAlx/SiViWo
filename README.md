@@ -14,7 +14,7 @@ I have added the issues of goal 3 and other to learn new things.
 ###Learning:
 
 * The idea is to update the web of project when the readme.md is update. I think so that i got it
-* Seach modules in python that do it or to develope my own module
+* Seach modules in python that do it or to develope my own module. I have found this library in python [NetworkX](https://networkx.github.io/documentation/networkx-1.9/tutorial/tutorial.html)
 
 ##06/10/2016
 
