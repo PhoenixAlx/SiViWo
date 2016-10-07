@@ -120,7 +120,7 @@
       }
 
       var converter = new Showdown.converter();
-      var html = converter.makeHtml(str);
+      var html = converter.makeHtml(resp);
       document.getElementById("divReadme").innerHTML = html;
       alert(html);
 
