@@ -1,6 +1,21 @@
 # SiViWo
 Simulation of virgin words.  The idea is to simulate how the new words appear in the language.  In this project the programation's language used will be python (version 3)
 
+##07/10/2016
+
+I have added the issues of goal 3 and other to learn new things.
+
+###Goal 3
+
+* Add in model0 agents and networks
+* Create class for networks
+* Create class for agents
+
+###Learning:
+
+* The idea is to update the web of project when the readme.md is update
+* Seach modules in python that do it or to develope my own module
+
 ##06/10/2016
 
 Following with the idea the milestones I have opened a milestone to join the different points that correspond to the goal 1
