@@ -24,7 +24,7 @@
 #  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 #  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #  
-import networkx as nx
+import networkx as nx;
 class Community:
     """This is the class community, a set of  n agents and edges"""
     def __init__(self, n):
@@ -42,4 +42,3 @@ class Community:
                     nodeLink.append((i,j));
             self.G.add_edges_from(nodeLink);
         return 0;
-
