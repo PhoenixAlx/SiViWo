@@ -2,6 +2,11 @@
 Simulation of virgin words.  The idea is to simulate how the new words appear in the language.  In this project the programation's language used will be python (version 3)
 
 
+##10/10/2016
+***
+I have tested this library in python [NetworkX](https://networkx.github.io/documentation/networkx-1.9/tutorial/tutorial.html) and i am going to use it. It's veru useful.
+
+
 
 ##07/10/2016
 ***
