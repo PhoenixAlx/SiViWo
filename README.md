@@ -4,13 +4,13 @@ Simulation of virgin words.  The idea is to simulate how the new words appear in
 
 ##10/10/2016
 ***
-I have tested this library in python [NetworkX](https://networkx.github.io/documentation/networkx-1.9/tutorial/tutorial.html) and i am going to use it. It's veru useful.
-
+* I have tested this library in python [NetworkX](https://networkx.github.io/documentation/networkx-1.9/tutorial/tutorial.html) and i am going to use it. It's veru useful.
+* I have add th class networkClass.py wher to manage and create the network type. This starts to be very interesting. Enjoying ^_^
 
 
 ##07/10/2016
 ***
-I have added the issues of goal 3 and other to learn new things.
+* I have added the issues of goal 3 and other to learn new things.
 
 ###Goal 3
 
