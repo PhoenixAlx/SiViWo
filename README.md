@@ -1,11 +1,16 @@
 # SiViWo
 Simulation of virgin words.  The idea is to simulate how the new words appear in the language.  In this project the programation's language used will be python (version 3)
 
+##11/10/2016
+***
+It happens to me, i think in a lot of things about this project, too much. So,  I rush me . I should go slow, slower, step a step, to do fine all.
+
+* I have a new function in class network toget 2 agents linked randomly and return a list [node1,node2]
 
 ##10/10/2016
 ***
 * I have tested this library in python [NetworkX](https://networkx.github.io/documentation/networkx-1.9/tutorial/tutorial.html) and i am going to use it. It's veru useful.
-* I have add th class networkClass.py wher to manage and create the network type. This starts to be very interesting. Enjoying ^_^
+* I have add the class networkClass.py wher to manage and create the network type. This starts to be very interesting. Enjoying ^_^
 
 
 ##07/10/2016
