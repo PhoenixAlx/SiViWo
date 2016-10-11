@@ -6,6 +6,7 @@ Simulation of virgin words.  The idea is to simulate how the new words appear in
 It happens to me, i think in a lot of things about this project, too much. So,  I rush me . I should go slow, slower, step a step, to do fine all.
 
 * I have a new function in class network toget 2 agents linked randomly and return a list [node1,node2]
+* I have update Goal 3 with new classes
 
 ##10/10/2016
 ***
@@ -22,6 +23,8 @@ It happens to me, i think in a lot of things about this project, too much. So,  
 * Add in model0 agents and networks
 * Create class for networks
 * Create class for agents
+* Create class constants
+* Create class languages
 
 ###Learning:
 
