@@ -22,4 +22,6 @@
 * Add in model0 agents and networks
 * Create class for networks
 * Create class for agents
+* Create class constants
+* Create class languages
 
