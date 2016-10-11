@@ -25,6 +25,7 @@
 #  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #  
 import networkx as nx;
+import random as random;
 class Community:
     """This is the class community, a set of  n agents and edges"""
     def __init__(self, n):
@@ -42,3 +43,19 @@ class Community:
                     nodeLink.append((i,j));
             self.G.add_edges_from(nodeLink);
         return 0;
+    def get2NodesRandom(self):
+        """This function get 2 agents linked randomly and return a list [node1,node2]"""
+        nodes=self.G.nodes();
+        node=random.choice(nodes);
+        neighbors=self.G.neighbors(node);
+        neighbor=random.choice(neighbors);
+        return [node,neighbor];
+def test():
+    """this fuction is to test"""
+    C= Community(10);
+    C.setFullyConnect();
+    print(C.get2NodesRandom());
+def main():
+    """function main"""
+    test();
+main();
